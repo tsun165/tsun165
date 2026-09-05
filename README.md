@@ -1,4 +1,4 @@
-<h1 align="center">Hi mate 👋, I'm Do Thai Son (aka tsun165 aka tysondo)</h1>
+<h1 align="center">Hi mate 👋, I'm Do Thai Son</h1>
 
 
 - 📫 How to reach me **sondoforwork@gmail.com**
