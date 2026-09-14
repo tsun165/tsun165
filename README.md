@@ -5,14 +5,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/othaison.11301/?locale=vi_VN" target="blank">
+<a href="https://www.facebook.com/tysondoforwork" target="blank">
   <img align="center" 
     src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/facebook.svg" 
     alt="tsun165 facebook" 
     height="30" 
     width="40" />
 </a>
-<a href="www.linkedin.com/in/sơn-đỗ-376b00300" target="blank">
+<a href="www.linkedin.com/in/tysondoforwork" target="blank">
   <img align="center" 
        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/linked-in-alt.svg" 
        alt="tsun165 linkedin" 
